@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing internship with istudio<br>I'm currently learning python ,sql,data analysis,machine learning
+I'm currently doing internship with Bluestocks as data Analyst intern<br>I'm currently learning python ,sql,data analysis,machine learning
 
 
 ## 🌐 Socials:
