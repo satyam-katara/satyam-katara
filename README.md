@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently doing internship with Bluestocks as data Analyst intern<br>I'm currently learning python ,sql,data analysis,machine learning
+Data Analyst Intern at Bluestock Fintech, building end-to-end analytics pipelines with Python, SQL, and Power BI.
+Final-year B.Tech CSE (Data Science) student.
+Recently built a Mutual Fund Analytics Dashboard covering 40 schemes — from data pipeline to BI dashboard.
 
 
 ## 🌐 Socials:
