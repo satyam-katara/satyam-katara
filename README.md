@@ -5,7 +5,7 @@
 I'm a **B.Tech CSE (Data Science)** student (Class of 2027) who turns raw data into clear, actionable business insights. I build **end-to-end analytics projects** — from data cleaning and SQL analysis to interactive dashboards people actually use.
 
 - 🔭 **Data Analyst Intern** @ Bluestock Fintech (Jun–Aug 2026) · **Data Science Intern** @ iStudio (Oct 2025–Jan 2026)
-- 🌱 Currently sharpening: Advanced SQL, Power BI (DAX & data modelling), Python analytics — completing the Final-10 analyst project series (7/10 done)
+- 🌱 Currently sharpening: Advanced SQL, Power BI (DAX & data modelling), Python analytics
 - 🎯 Open to **Data Analyst, BI Analyst, Business Analyst, Reporting Analyst, MIS Executive, Research Analyst & Operations Analyst** roles — on-site, hybrid or remote, anywhere in India
 - 🌐 Portfolio: **[satyam-katara-portfolio.vercel.app](https://satyam-katara-portfolio.vercel.app)**
 - 📫 **satyam.katara1620@gmail.com**
@@ -49,7 +49,7 @@ I'm a **B.Tech CSE (Data Science)** student (Class of 2027) who turns raw data i
 
 ---
 
-## 🎯 Final-10 Analyst Projects — 7/10 Complete
+## 📊 Data Analytics Projects
 
 | Project | Key result | Stack |
 |---|---|---|
