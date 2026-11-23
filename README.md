@@ -5,8 +5,8 @@
 I'm a **B.Tech CSE (Data Science)** student (Class of 2027) who turns raw data into clear, actionable business insights. I build **end-to-end analytics projects** — from data cleaning and SQL analysis to interactive dashboards people actually use.
 
 - 🔭 **Data Analyst Intern** @ Bluestock Fintech (Jun–Aug 2026) · **Data Science Intern** @ iStudio (Oct 2025–Jan 2026)
-- 🌱 Currently sharpening: Advanced SQL, Power BI (DAX & data modelling), Python analytics
-- 🎯 Open to **Data Analyst / BI Analyst / Business Analyst** roles — on-site, anywhere in India
+- 🌱 Currently sharpening: Advanced SQL, Power BI (DAX & data modelling), Python analytics — completing the Final-10 analyst project series (7/10 done)
+- 🎯 Open to **Data Analyst, BI Analyst, Business Analyst, Reporting Analyst, MIS Executive, Research Analyst & Operations Analyst** roles — on-site, hybrid or remote, anywhere in India
 - 🌐 Portfolio: **[satyam-katara-portfolio.vercel.app](https://satyam-katara-portfolio.vercel.app)**
 - 📫 **satyam.katara1620@gmail.com**
 
@@ -49,8 +49,23 @@ I'm a **B.Tech CSE (Data Science)** student (Class of 2027) who turns raw data i
 
 ---
 
+## 🎯 Final-10 Analyst Projects — 7/10 Complete
+
+| Project | Key result | Stack |
+|---|---|---|
+| [Cohort Retention Analysis](https://github.com/satyam-katara/cohort-retention-analysis) | 25 cohorts, 96,096 customers — only 3.12% placed a repeat order; avg Month 1 retention 0.46% | SQL Server · Excel |
+| [Olist E-commerce Analytics](https://github.com/satyam-katara/olist-ecommerce-analytics) | 5-page Power BI dashboard over R$13.59M revenue across 99,441 orders | SQL Server · Power BI · DAX |
+| [Telecom Churn Analysis](https://github.com/satyam-katara/telecom-customer-churn-analysis) | Gradient Boosting ROC-AUC 0.8434; top-decile lift 2.91x; $7,782/month win-back in the top 100 | SQL · Python · Scikit-learn |
+| [RFM Customer Segmentation](https://github.com/satyam-katara/rfm-customer-segmentation) | 5 segments; Champions (1,268 customers, 21.6%) drive 67.90% of gross purchase value | SQL Server |
+| [Reading a Real A/B Test](https://github.com/satyam-katara/marketing-ab-test-analysis) | 588,101 users; ad lifted conversions +0.77pp (+43.09%, z = 7.37, p < 0.001) | SQL Server · Python |
+| [A/B Test Design and Sizing](https://github.com/satyam-katara/ab-test-design-sizing) | Sample size 3,839/group; showed peeking inflates false positives to 17.68% | Python |
+| [Excel Report Automation](https://github.com/satyam-katara/excel-report-automation) | Monthly MIS report: ~3.5 hours of manual work down to 2.71 seconds | Python · Excel VBA |
+
+---
+
 ## 🏆 Certifications
 
+- **HackerRank SQL (Advanced)** — HackerRank (Sep 2026)
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Microsoft
 - **SQL and Relational Databases 101** — IBM
 - **Python for Data Analysis** — IBM
